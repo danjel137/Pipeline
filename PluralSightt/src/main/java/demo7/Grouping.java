@@ -1,6 +1,5 @@
 package demo7;
 
-import demo3.FilterHeaderFn;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
 import org.apache.beam.sdk.options.PipelineOptions;
@@ -14,13 +13,13 @@ import java.util.logging.Logger;
 
 public class Grouping{
     private static final Logger logger= Logger.getLogger(Grouping.class.getName());
-
+    private static final String header="car,price,body,mileage,engV,engType,registration,year,model,drive";
     public static void main(String[] args) {
         PipelineOptions options= PipelineOptionsFactory.create();
         Pipeline pipeline=Pipeline.create(options);
 
         pipeline.apply("ReadAds", TextIO.read().from("C:\\Users\\HP\\IdeaProjects\\Pipelines\\PluralSightt\\src\\main\\resources\\car_Input.csv"))
-                .apply("FilterHeader", ParDo.of(new RemoveHeader()))//to be implementet using state information
+                .apply("FilterHeader", ParDo.of(new RemoveHeader(header)))
                 .apply("Create CarModel PCollection", ParDo.of(new DoFn<String, CarModel>() {
                     @ProcessElement
                     public void processElement(ProcessContext c){
