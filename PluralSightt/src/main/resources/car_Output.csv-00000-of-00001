@@ -1,0 +1,352 @@
+VAZ,1500,sedan,50,1.45,Gas,yes,1974,2103,rear
+VAZ,800,sedan,25,1.3,Petrol,yes,1979,2101,rear
+Opel,1900,sedan,185,1.4,Gas,yes,1991,Kadett,front
+VAZ,1750,hatch,188,1.3,Petrol,yes,1993,2108,front
+Mazda,1800,hatch,1,NA,Other,no,2009,3,front
+Opel,1100,sedan,1,1.3,Petrol,yes,1988,Kadett,front
+VAZ,1350,hatch,100,1.3,Petrol,yes,1987,2108,front
+Volkswagen,1700,hatch,247,1.4,Petrol,no,1999,Golf IV,front
+Moskvich-AZLK,1100,hatch,5,1.7,Petrol,yes,1994,2141,front
+VAZ,900,sedan,1,1.4,Gas,yes,1986,2107,front
+VAZ,1300,sedan,170,1.6,Gas,yes,2007,21099,front
+ZAZ,1900,sedan,16,1.3,Petrol,yes,2008,1103 �������,front
+VAZ,1950,sedan,160,1.5,Gas,yes,2005,2107,rear
+Mazda,1600,sedan,206,1.8,Petrol,no,1997,626,front
+ZAZ,785,sedan,65,1.2,Petrol,yes,1992,1102 ������,front
+Opel,1520,sedan,219,1.6,Gas,no,1997,Vectra B,front
+VAZ,1500,hatch,200,1.5,Petrol,yes,1992,2108,front
+VAZ,1300,hatch,28,1.3,Petrol,yes,1991,2108,front
+VAZ,650,sedan,17,1.5,Petrol,yes,1988,2107,rear
+VAZ,1300,sedan,31,1.3,Petrol,yes,1986,2106,rear
+VAZ,1000,sedan,200,1.6,Petrol,yes,1978,2106,rear
+Toyota,600,sedan,10,1.5,Petrol,yes,1979,Corolla,rear
+VAZ,1390,hatch,130,1.5,Other,yes,1990,2108,front
+Nissan,1499,sedan,16,2,Gas,yes,1991,Primera,
+VAZ,1750,sedan,127,1.5,Other,yes,2003,2105,front
+Opel,1750,hatch,110,1.2,Petrol,no,1998,Corsa,front
+VAZ,1900,sedan,100,1.5,Other,yes,1993,21099,front
+ZAZ,407.55,hatch,143,0.9,Petrol,yes,1994,1102 ������,
+Mercedes-Benz,1950,sedan,1,2,Diesel,yes,1979,200,rear
+ZAZ,1800,sedan,120,1.2,Petrol,yes,2008,1103 �������,front
+VAZ,703.95,sedan,187,1.6,Petrol,yes,1985,2107,rear
+ZAZ,1650,hatch,103,1.2,Gas,yes,2002,1102 ������,front
+VAZ,1100,sedan,38,1.5,Gas,yes,1990,2107,rear
+Volkswagen,1800,sedan,250,NA,Petrol,yes,1991,Jetta,front
+Honda,1750,sedan,193,2,Gas,yes,1988,Accord,front
+VAZ,537.225,sedan,87,1.5,Petrol,yes,1994,2105,rear
+Volkswagen,1450,hatch,200,1.8,Gas,no,1992,Golf III,front
+Ford,1300,hatch,345,2,Gas,yes,1986,Scorpio,rear
+Mitsubishi,1180,sedan,280,1.8,Diesel,yes,1986,Galant,front
+ZAZ,1600,hatch,170,1.1,Petrol,yes,1998,1102 ������,front
+Ford,680,sedan,100,2.3,Gas,yes,1980,Granada,rear
+Audi,1999,sedan,400,1.6,Diesel,yes,1986,80,front
+VAZ,1400,sedan,1,1.5,Gas,yes,1996,2106,rear
+Mercedes-Benz,1350,sedan,360,2.5,Diesel,no,1989,E-Class,rear
+VAZ,1500,sedan,200,1.5,Petrol,yes,2000,2105,rear
+Moskvich-AZLK,350,sedan,100,NA,Other,yes,1985,2140,
+Opel,1250,sedan,200,1.6,Petrol,no,1996,Vectra B,front
+Mercedes-Benz,1700,sedan,300,2,Gas,no,1998,E-Class,rear
+ZAZ,400,sedan,20,NA,Petrol,yes,1990,968,rear
+VAZ,1555,sedan,125,1.35,Petrol,yes,1987,2106,rear
+Ford,1100,hatch,61,1.1,Petrol,yes,1986,Fiesta,front
+Moskvich-AZLK,1500,hatch,1,1.4,Petrol,yes,1964,403,rear
+ZAZ,800,hatch,247,1.1,Gas,yes,1994,1102 ������,front
+VAZ,1999,hatch,10,1.3,Petrol,yes,1993,2109,front
+Moskvich-AZLK,550,sedan,30,99.99,Petrol,yes,1971,412,rear
+VAZ,1300,sedan,160,1.5,Gas,yes,1991,2106,rear
+Fiat,1900,sedan,290,1.6,Gas,yes,1996,Tempra,front
+Citroen,1650,sedan,240,2.2,Diesel,no,2001,C5,front
+Citroen,1600,sedan,200,2,Diesel,yes,2000,Xantia,front
+VAZ,1400,hatch,150,1.5,Petrol,yes,1988,2109,front
+Audi,1400,sedan,250,1.8,Petrol,no,1993,80,front
+BMW,1900,sedan,200,1.8,Gas,no,1994,318,rear
+Opel,1800,sedan,1,2,Gas,no,1999,Omega,rear
+Opel,1850,sedan,270,2,Petrol,no,1999,Vectra B,front
+VAZ,650,sedan,10,1.3,Petrol,yes,1982,2111,rear
+Opel,1300,sedan,30,1.6,Gas,yes,1986,Kadett,front
+VAZ,1599,hatch,122,1.5,Other,yes,1992,2109,front
+ZAZ,1100,sedan,149,1.2,Gas,yes,2008,1103 �������,front
+ZAZ,1550,sedan,186,1.2,Petrol,yes,2004,1103 �������,front
+VAZ,1450,sedan,105,1.3,Petrol,yes,1990,2106,rear
+GAZ,259.35,sedan,1,2.4,Other,yes,1959,21,rear
+Volkswagen,1550,sedan,161,1.8,Petrol,no,1994,Vento,front
+Ford,1200,hatch,240,1.6,Petrol,no,2001,Focus,front
+Fiat,926.25,hatch,350,1,Petrol,yes,1987,Uno,front
+Opel,1550,sedan,215,1.6,Petrol,no,1996,Vectra B,front
+Mitsubishi,1389,hatch,245,1.3,Petrol,no,1996,Colt,front
+Audi,600,sedan,112,1.6,Petrol,yes,1980,80,front
+VAZ,1300,sedan,11,1.5,Petrol,yes,1987,2105,rear
+ZAZ,1500,hatch,100,1.2,Petrol,yes,1999,1103 �������,front
+Ford,700,hatch,91,1.4,Gas,no,1994,Escort,front
+VAZ,1800,sedan,361,1.5,Petrol,yes,2001,2107,rear
+VAZ,1800,sedan,100,1.5,Petrol,yes,2006,2107,rear
+Mercedes-Benz,1600,sedan,338,3,Diesel,no,1991,E-Class,rear
+VAZ,833.625,sedan,1,1.2,Gas,yes,1984,2101,rear
+Peugeot,1900,hatch,154,1.4,Petrol,yes,1993,106,front
+ZAZ,1950,sedan,67,1.2,Petrol,yes,2005,1103 �������,front
+VAZ,1600,sedan,70,1.2,Petrol,yes,1986,2101,rear
+Renault,1800,hatch,1,1.4,Gas,yes,1988,11,front
+Daewoo,1900,sedan,159,1.5,Gas,yes,2004,Lanos,front
+VAZ,1850,hatch,50,1.5,Petrol,yes,1992,2109,front
+Ford,1850,sedan,200,2.5,Petrol,no,2001,Mondeo,front
+Mercedes-Benz,1200,sedan,240,2.4,Petrol,no,1999,E-Class,rear
+Ford,1100,sedan,301,1.8,Diesel,no,1998,Mondeo,front
+Ford,1300,sedan,250,1.6,Petrol,yes,1988,Escort,rear
+Mitsubishi,1699,hatch,294,1.6,Gas,yes,1992,Lancer,front
+Mazda,1300,sedan,274,1.5,Petrol,no,1995,323,front
+VAZ,1700,sedan,82,1.5,Petrol,yes,2004,2107,rear
+Ford,1550,hatch,285,2,Gas,yes,1988,Scorpio,rear
+Renault,999,sedan,430,2,Gas,yes,1988,25,front
+BMW,1950,sedan,162,1.6,Petrol,no,1995,316,rear
+Volkswagen,1500,sedan,255,1.9,Diesel,no,1998,Polo,front
+VAZ,950,sedan,97,1.5,Petrol,yes,1993,2107,rear
+Daewoo,1350,sedan,225,NA,Gas,no,1998,Lanos,front
+Fiat,1950,hatch,215,1.4,Petrol,yes,1991,Tipo,
+BMW,1900,sedan,300,2.5,Diesel,no,1997,5 Series,rear
+Audi,1950,sedan,320,19,Other,no,1996,A4,
+Audi,1300,sedan,250,NA,Gas,no,1994,80,front
+Opel,1600,sedan,280,2.3,Diesel,yes,1987,Omega,rear
+BMW,1500,sedan,270,2.5,Diesel,no,1992,525,rear
+Fiat,1300,hatch,178,0.9,Gas,yes,1995,Cinquecento,front
+Ford,1500,hatch,48,1.4,Petrol,yes,1989,Escort,front
+Ford,1500,hatch,2,2,Gas,yes,1987,Sierra,rear
+Ford,1900,hatch,150,1.3,Other,yes,1991,Escort,front
+Ford,1400,sedan,1,2,Gas,yes,1990,Scorpio,rear
+Mazda,1700,hatch,1,1.3,Petrol,yes,1986,323,front
+Mazda,1200,sedan,270,NA,Other,yes,1988,323,
+VAZ,900,sedan,60,1.3,Petrol,yes,1978,2101,rear
+VAZ,1750,sedan,123,1.5,Petrol,yes,2000,21099,front
+VAZ,1250,sedan,10,1.5,Petrol,yes,1989,2107,rear
+VAZ,1300,hatch,60,1.5,Gas,yes,1992,2108,front
+ZAZ,1600,hatch,180,1.2,Petrol,yes,2003,1102 ������,front
+GAZ,500,sedan,239,2,Other,yes,1961,21,rear
+Moskvich-AZLK,1100,hatch,30,1.6,Gas,yes,1990,2141,
+Fiat,1350,hatch,170,1,Petrol,yes,1994,Cinquecento,front
+VAZ,1600,hatch,25,1.3,Petrol,yes,1989,2108,front
+Moskvich-AZLK,280,sedan,99,1.5,Petrol,yes,1976,2140,rear
+Opel,1050,sedan,300,1.6,Petrol,yes,1982,Ascona,front
+VAZ,1300,sedan,10,1.6,Petrol,yes,1989,2106,rear
+VAZ,1800,hatch,230,1.3,Petrol,yes,1991,2108,front
+VAZ,1850,sedan,42,1.6,Gas,yes,2004,2107,rear
+Daewoo,1100,hatch,166,1.6,Petrol,no,1999,Lanos,front
+VAZ,1700,sedan,73,1.5,Petrol,yes,2004,2107,rear
+Fiat,1000,hatch,230,1.5,Petrol,yes,1988,Uno,front
+VAZ,1500,hatch,20,1.5,Petrol,yes,1990,2108,front
+VAZ,1670,sedan,65,1.5,Petrol,yes,2003,2107,
+Peugeot,1250,sedan,10,1.9,Gas,yes,1990,405,front
+VAZ,463.125,sedan,10,1.3,Petrol,yes,1979,2101,rear
+ZAZ,600,sedan,2,1.1,Petrol,yes,1993,1102 ������,front
+VAZ,1050,sedan,29,1.5,Petrol,yes,1996,2107,rear
+Opel,1300,sedan,250,2.2,Petrol,yes,1986,Rekord,rear
+Mazda,1100,hatch,448,1.6,Petrol,yes,1986,626,front
+VAZ,1250,hatch,1,1.3,Petrol,yes,1988,2108,front
+Ford,1852.5,hatch,300,2,Petrol,yes,1985,Scorpio,rear
+VAZ,850,sedan,110,1.3,Petrol,yes,1985,2106,rear
+Opel,1600,sedan,270,2,Gas,yes,1988,Omega,rear
+GAZ,1100,sedan,35,NA,Gas,yes,1962,21,
+VAZ,1800,hatch,1,1.3,Gas,yes,1991,2108,front
+VAZ,1600,sedan,126,1.6,Gas,yes,1979,2106,rear
+Ford,1199,hatch,1,1.3,Petrol,yes,1988,Escort,front
+VAZ,1350,hatch,21,1.3,Petrol,yes,1988,2108,front
+VAZ,507.585,sedan,165,NA,Other,yes,1977,2101,
+VAZ,400,sedan,10,1.1,Petrol,yes,1982,2101,rear
+VAZ,1300,sedan,114,1.3,Petrol,yes,1991,2106,rear
+Toyota,1750,hatch,270,1.6,Petrol,yes,1985,Corolla,front
+Dacia,1852.5,sedan,200,1.4,Petrol,yes,2003,Solenza,front
+VAZ,666.9,sedan,70,1.3,Petrol,yes,1983,2101,rear
+VAZ,1000,sedan,10,8,Petrol,yes,1982,2101,rear
+Ford,1190,hatch,111,1.4,Petrol,yes,1988,Escort,front
+Nissan,1650,sedan,234,1.8,Petrol,yes,1984,Stanza,front
+Opel,499,sedan,230,1.6,Petrol,no,1996,Vectra B,front
+VAZ,850,sedan,50,1.2,Petrol,yes,1986,2101,front
+VAZ,1400,sedan,100,1.3,Gas,yes,1990,2105,rear
+Opel,1850,hatch,255,2,Petrol,no,2002,Vectra B,front
+ZAZ,1900,hatch,189,1.3,Gas,yes,2004,1103 �������,front
+ZAZ,1450,hatch,112,1.2,Petrol,yes,2003,1103 �������,front
+ZAZ,1800,hatch,23,1.2,Petrol,yes,2009,1103 �������,front
+VAZ,1800,sedan,125,1.5,Petrol,yes,2000,2107,rear
+Ford,1050,sedan,160,1.4,Petrol,yes,1988,Escort,front
+ZAZ,1000,hatch,150,1.2,Petrol,yes,2004,1102 ������,front
+ZAZ,1800,hatch,150,99.99,Gas,yes,2004,1102 ������,front
+Ford,1000,hatch,2,1.4,Petrol,yes,1985,Fiesta,front
+BMW,1700,sedan,200,2,Diesel,no,2003,320,rear
+ZAZ,1950,hatch,120,1.2,Petrol,yes,2007,1103 �������,
+ZAZ,1296.75,hatch,300,1.1,Gas,yes,1998,1102 ������,front
+Honda,1650,hatch,300,1.5,Petrol,yes,1987,Civic,front
+Ford,1300,hatch,200,1.6,Petrol,yes,1984,Sierra,rear
+VAZ,1950,sedan,103,NA,Other,yes,1990,2106,
+Mitsubishi,1850,sedan,145,1.6,Petrol,no,1997,Carisma,front
+VAZ,1350,sedan,113,1.3,Petrol,yes,1986,2106,rear
+VAZ,1399,sedan,139,1.5,Petrol,yes,1997,2105,rear
+Opel,600,hatch,58,1.3,Petrol,yes,1986,Kadett,front
+Skoda,1667.25,hatch,186,1.3,Petrol,yes,1999,Felicia,front
+Peugeot,1999,hatch,175,2,Diesel,no,2001,307,front
+BMW,1400,sedan,260,1.8,Petrol,no,1996,318,rear
+Moskvich-AZLK,700,sedan,100,1.5,Petrol,yes,1980,2140,front
+VAZ,750,sedan,999,1.3,Petrol,yes,1984,2106,rear
+Lancia,1550,sedan,250,NA,Other,yes,1990,Prisma,
+VAZ,1500,hatch,60,NA,Petrol,yes,1991,2109,front
+GAZ,1296.75,sedan,70,2.44,Gas,yes,1982,24,rear
+Seat,1550,hatch,100,NA,Other,yes,1991,Ibiza,
+GAZ,1800,sedan,100,2.3,Gas,yes,2000,3110,rear
+VAZ,1350,sedan,233,1.3,Petrol,yes,1984,2105,rear
+Moskvich-AZLK,400,sedan,1,10,Petrol,yes,1985,2140,rear
+Daewoo,1300,sedan,172,1.5,Petrol,no,2000,Lanos,front
+Opel,1499,sedan,260,2.5,Petrol,no,1997,Omega,front
+VAZ,1200,sedan,200,1.3,Petrol,yes,1996,2105,rear
+Ford,1750,sedan,250,1.4,Petrol,yes,1993,Orion,front
+Opel,1500,hatch,240,1.8,Petrol,no,1998,Vectra B,front
+Skoda,1850,sedan,240,1.9,Diesel,no,1998,Octavia,front
+VAZ,1420,sedan,450,99.99,Petrol,yes,1998,2107,rear
+VAZ,1150,sedan,1,1.3,Petrol,yes,1989,2107,rear
+Opel,1900,sedan,120,NA,Petrol,yes,1987,Kadett,
+VAZ,1500,hatch,77,1.3,Gas,yes,1991,2108,front
+Mercedes-Benz,1850,sedan,281,2,Diesel,yes,1985,190,rear
+VAZ,1950,sedan,92,1.5,Gas,yes,1990,2107,rear
+VAZ,460,sedan,1,NA,Petrol,yes,1981,2101,rear
+BMW,1550,sedan,300,NA,Gas,no,1994,316,rear
+ZAZ,1150,hatch,49,1.1,Other,yes,2002,1102 ������,front
+Volkswagen,1650,sedan,210,1.8,Petrol,no,1998,Passat B4,front
+Opel,1820,sedan,110,1.6,Gas,yes,1988,Ascona,front
+Seat,1850,hatch,250,1.1,Petrol,yes,1994,Ibiza,front
+VAZ,1900,hatch,40,1.5,Petrol,yes,1990,2109,front
+VAZ,900,sedan,100,1.5,Gas,yes,1986,2106,rear
+VAZ,1250,sedan,150,99.99,Gas,yes,1987,2105,rear
+Ford,1250,hatch,250,2,Petrol,yes,1986,Scorpio,rear
+Opel,1850,hatch,316,2,Diesel,no,1999,Astra G,front
+BMW,1650,sedan,270,1.8,Petrol,no,1995,318,rear
+VAZ,1850,sedan,60,NA,Other,yes,1989,2106,
+VAZ,1499,hatch,74,1.5,Other,yes,1989,2108,front
+VAZ,750,sedan,264,1.5,Other,yes,1981,2103,rear
+VAZ,1700,sedan,80,NA,Other,yes,1999,2106,
+VAZ,999,sedan,1,1.5,Petrol,yes,1989,2105,rear
+VAZ,926.25,sedan,40,1.6,Gas,yes,1986,2106,rear
+ZAZ,643,hatch,65,1.2,Gas,yes,1992,1102 ������,front
+VAZ,1799,sedan,5,1.3,Gas,yes,1987,2105,rear
+Mitsubishi,800,sedan,340,NA,Other,yes,1986,Galant,
+VAZ,1450,sedan,13,NA,Petrol,yes,1996,2107,rear
+ZAZ,1600,hatch,86,1.2,Petrol,yes,2004,1102 ������,front
+VAZ,1250,hatch,117,1.5,Gas,yes,2005,2109,front
+VAZ,1700,hatch,57,1.5,Petrol,yes,1992,21093,front
+Ford,800,sedan,500,NA,Other,yes,1991,Sierra,
+Ford,1600,sedan,51,2,Gas,yes,1983,Sierra,rear
+VAZ,1799,sedan,95,1.6,Petrol,yes,2003,2107,rear
+ZAZ,1850,sedan,71,1.2,Petrol,yes,2002,1103 �������,front
+VAZ,800,sedan,156,NA,Petrol,yes,1985,2106,front
+Volkswagen,1900,hatch,300,1.9,Diesel,no,1999,Golf IV,front
+Mazda,1600,hatch,220,1.5,Petrol,no,1995,323,front
+VAZ,1500,sedan,23,1.3,Petrol,yes,1985,2106,rear
+Opel,1400,sedan,430,1.6,Petrol,yes,1987,Kadett,front
+Nissan,1450,hatch,205,2,Diesel,yes,1991,Sunny,front
+ZAZ,1250,hatch,1,1.2,Petrol,yes,2004,1103 �������,front
+Mercedes-Benz,1999,sedan,400,2.2,Diesel,no,2000,200,front
+Volkswagen,1500,sedan,265,1.8,Petrol,yes,1988,Jetta,front
+Volkswagen,1199,hatch,250,1.9,Diesel,no,1994,Golf III,front
+Audi,1852.5,sedan,150,1.8,Petrol,yes,1985,80,full
+Volkswagen,1550,hatch,130,1.3,Petrol,yes,1986,Golf II,front
+Ford,1900,hatch,350,2,Petrol,yes,1986,Scorpio,rear
+ZAZ,1050,sedan,130,NA,Gas,yes,2005,1102 ������,front
+Audi,1900,sedan,450,2.5,Diesel,no,1996,A6,front
+VAZ,1500,sedan,93,1.5,Other,yes,2004,2107,rear
+VAZ,1700,hatch,115,1.3,Petrol,yes,1990,2108,front
+Opel,750,hatch,50,1.3,Gas,no,1988,Kadett,front
+VAZ,950,sedan,86,1.2,Petrol,yes,1986,2101,rear
+UAZ,1300,sedan,120,2.5,Other,yes,1978,452 ����.,full
+Renault,1350,sedan,100,1.7,Petrol,yes,1986,21,front
+VAZ,1600,sedan,1,NA,Petrol,yes,1985,2106,rear
+VAZ,741,sedan,167,1.3,Gas,yes,1986,2105,rear
+VAZ,1850,sedan,94,1.5,Gas,yes,2007,2107,front
+VAZ,1300,sedan,7,1.2,Petrol,yes,1984,2105,rear
+Mitsubishi,1599,sedan,156,1.8,Petrol,yes,1989,Galant,front
+VAZ,1900,sedan,60,1.5,Petrol,yes,2004,2107,
+VAZ,463.125,sedan,68,1.2,Petrol,yes,1984,2101,rear
+Opel,920,hatch,24,1.3,Petrol,yes,1989,Kadett,front
+VAZ,1900,sedan,109,1.5,Petrol,yes,2004,2107,rear
+VAZ,649,sedan,9,1.2,Petrol,yes,1977,2101,rear
+VAZ,1100,sedan,70,1.5,Petrol,yes,1990,2107,rear
+VAZ,1300,hatch,77,1.5,Gas,yes,1996,2108,front
+Volkswagen,1499,sedan,220,2,Gas,no,1995,Passat B4,front
+Moskvich-AZLK,1250,hatch,95,1.5,Petrol,yes,1992,2141,front
+Opel,500,sedan,200,2,Petrol,no,1997,Vectra B,front
+VAZ,722.475,sedan,10,1.2,Petrol,yes,1984,2101,rear
+VAZ,1500,sedan,5,1.6,Petrol,yes,2007,2107,rear
+Ford,620,hatch,220,1.4,Petrol,yes,1987,Escort,front
+Fiat,1000,hatch,11,1.5,Petrol,yes,1988,Uno,front
+Opel,1600,hatch,59,1.2,Gas,yes,1990,Corsa,front
+VAZ,600,sedan,60,1.2,Petrol,yes,1976,2101,rear
+VAZ,1050,sedan,65,1.3,Gas,yes,1980,2101,rear
+Alfa Romeo,1800,hatch,185,1.7,Gas,yes,1991,33,front
+Moskvich-AZLK,770,hatch,325,1.5,Gas,yes,1990,2141,front
+Mitsubishi,1550,hatch,1,1.8,Diesel,yes,1990,Galant,front
+Wartburg,1000,sedan,90,1.3,Petrol,yes,1989,1.3,front
+ZAZ,1148.55,hatch,500,1.2,Gas,yes,2004,1103 �������,front
+Ford,1600,sedan,250,2,Petrol,yes,1990,Scorpio,rear
+VAZ,750,sedan,123,1.2,Petrol,yes,1990,2105,
+VAZ,1750,sedan,87,1.3,Petrol,yes,1992,2106,rear
+VAZ,1080,hatch,23,1.3,Petrol,yes,1989,2109,front
+Mercedes-Benz,1650,sedan,257,1.8,Gas,no,1995,CL 180,rear
+Ford,1200,sedan,3,2,Petrol,yes,1986,Sierra,rear
+VAZ,750,sedan,20,1.5,Petrol,yes,1975,2103,rear
+VAZ,907.725,sedan,1,NA,Other,yes,1986,2106,rear
+VAZ,1100,sedan,1,1.6,Petrol,yes,1977,2101,rear
+VAZ,1100,sedan,32,1.3,Gas,yes,1980,2103,rear
+Ford,1550,hatch,200,1.4,Petrol,yes,1990,Escort,front
+Renault,1200,sedan,240,1.7,Gas,yes,1988,9,front
+VAZ,1650,sedan,75,1.5,Gas,yes,2003,2106,rear
+Volkswagen,1900,hatch,100,1.6,Petrol,yes,1989,Golf II,front
+ZAZ,1800,hatch,127,NA,Petrol,yes,2001,1103 �������,front
+ZAZ,1350,hatch,91,1.1,Petrol,yes,2004,1102 ������,front
+Opel,1750,sedan,247,1.6,Petrol,no,1996,Vectra B,front
+Lancia,1950,sedan,1,2.5,Diesel,yes,1990,Thema,front
+Volkswagen,1900,sedan,297,1.6,Petrol,yes,1987,Jetta,front
+VAZ,1800,hatch,80,1.5,Gas,yes,1997,2109,front
+VAZ,1999,hatch,100,1.45,Petrol,yes,2001,21093,front
+VAZ,950,sedan,76,1.3,Petrol,yes,1983,2105,rear
+VAZ,1300,sedan,100,1.6,Petrol,yes,1992,2107,rear
+VAZ,1100,sedan,98,1.5,Gas,yes,1982,2106,rear
+Opel,1390,hatch,270,NA,Petrol,no,1997,Vectra B,front
+Opel,1400,sedan,1,2,Petrol,yes,1988,Omega,rear
+VAZ,1500,hatch,54,1.1,Gas,yes,1992,2108,front
+ZAZ,1250,hatch,164,NA,Petrol,yes,2005,������-����,front
+Mazda,1100,sedan,200,2,Diesel,yes,1987,626,front
+VAZ,1400,sedan,87,1.6,Petrol,yes,2002,2107,rear
+Volkswagen,1950,hatch,94,1.1,Petrol,yes,1982,Golf II,front
+ZAZ,950,sedan,35,1.1,Petrol,yes,1995,1102 ������,front
+GAZ,1650,sedan,98,2.5,Gas,yes,1993,31029,
+Volkswagen,1700,hatch,250,1.4,Petrol,no,1998,Polo,front
+VAZ,1600,sedan,123,1.3,Petrol,yes,1988,2109,front
+Mazda,1500,sedan,1,2,Gas,yes,1986,626,front
+VAZ,926.25,sedan,150,1.2,Petrol,yes,1986,2101,rear
+Audi,1700,sedan,177,1.6,Petrol,no,1996,A4,front
+VAZ,670,sedan,5,1.5,Petrol,yes,1987,2105,rear
+ZAZ,1700,hatch,104,1.2,Petrol,yes,2008,1103 �������,front
+VAZ,1950,sedan,91,1.5,Petrol,yes,2005,2107,rear
+Volkswagen,1899,hatch,300,1.6,Gas,yes,1984,Golf II,front
+VAZ,1250,sedan,150,1.3,Petrol,yes,1989,2105,rear
+Volkswagen,1296.75,sedan,1,1.6,Petrol,yes,1980,Jetta,
+ZAZ,1600,sedan,930,1.2,Gas,yes,2006,1103 �������,front
+Opel,1099,sedan,250,1.8,Petrol,no,1996,Vectra B,front
+VAZ,1750,sedan,130,1.3,Petrol,yes,1992,2106,rear
+VAZ,1000,sedan,68,1.5,Petrol,yes,1995,2105,rear
+Mercedes-Benz,1600,hatch,180,NA,Petrol,no,2000,A 160,front
+Renault,1185.6,hatch,160,2,Petrol,yes,1987,25,front
+Moskvich-AZLK,550,sedan,130,1.5,Petrol,yes,1994,2141,front
+Renault,1150,hatch,250,1.4,Petrol,yes,1987,5,front
+Volvo,1000,sedan,290,1.7,Other,yes,1986,340,rear
+VAZ,703.95,sedan,20,1.3,Petrol,yes,1985,2106,rear
+ZAZ,1500,hatch,230,1.2,Petrol,yes,2005,1103 �������,front
+VAZ,1900,sedan,1,NA,Other,yes,2003,2107,
+ZAZ,1750,sedan,100,1.2,Petrol,yes,2005,1103 �������,front
+VAZ,1600,sedan,230,1.3,Petrol,yes,1987,2106,rear
+GAZ,980,sedan,80,2.5,Gas,yes,2004,3110,
+VAZ,850,sedan,72,1.3,Petrol,yes,1977,2101,rear
+Audi,1850,sedan,250,2.5,Diesel,no,1999,A4,front
+VAZ,1700,hatch,500,1.3,Petrol,yes,1986,2108,front
+ZAZ,370.5,sedan,3,1.1,Petrol,yes,1989,968,rear
+ZAZ,1650,hatch,129,1.1,Gas,yes,1999,1103 �������,front
+GAZ,1999,sedan,70,2.4,Other,yes,1991,2410,rear
+Peugeot,1999,hatch,87,1.8,Diesel,yes,1988,205,front
+Ford,1400,sedan,82,1.6,Gas,yes,1991,Orion,front
+Mercedes-Benz,1990,hatch,230,1.7,Other,no,2001,A 170,front
+Opel,500,sedan,350,2,Petrol,yes,1990,Omega,rear
+VAZ,703.95,sedan,30,1.3,Petrol,yes,1986,2106,rear
