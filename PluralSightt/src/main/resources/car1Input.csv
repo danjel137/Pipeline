@@ -1,0 +1,18 @@
+car,price,body,mileage,engV,engType,registration,year,model,drive
+Lexus,19500,sedan,116,3.5,Other,yes,2007,GS 350,full
+Ford,3500,vagon,267,1.8,Diesel,yes,1996,Mondeo,front
+BMW,6500,sedan,388,3.5,Petrol,yes,1998,735,rear
+Ford,58915,crossover,0,NA,Other,yes,2016,Edge,
+Hyundai,16700,crossover,22,2,Petrol,yes,2011,IX35,full
+Citroen,8300,hatch,23,1,Petrol,yes,2013,C1,front
+Volkswagen,11500,van,100,2,Diesel,yes,2010,T5 (Transporter) ����,front
+Land Rover,16700,crossover,240,4.4,Petrol,yes,2005,Discovery,full
+Audi,14500,hatch,60,1.2,Petrol,yes,2011,A1,front
+Chery,3900,sedan,70,1.6,Gas,yes,2007,Amulet,front
+Peugeot,9000,hatch,33,1,Petrol,yes,2012,107,front
+Mitsubishi,8260,sedan,65,1.5,Petrol,yes,2011,Lancer,front
+Audi,11800,sedan,240,4.2,Gas,yes,2001,S8,full
+Mercedes-Benz,6500,sedan,435,3.2,Petrol,yes,1994,S 140,rear
+Renault,15672.15,van,0,1.5,Diesel,yes,2016,Dokker ����.,front
+Skoda,6000,sedan,250,1.8,Petrol,yes,2004,Octavia,front
+Mercedes-Benz,38000,sedan,42,1.6,Petrol,yes,2014,C-Class,rear

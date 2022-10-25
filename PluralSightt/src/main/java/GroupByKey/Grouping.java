@@ -1,4 +1,4 @@
-package demo7;
+package GroupByKey;
 
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;

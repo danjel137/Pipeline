@@ -1,0 +1,17 @@
+car,price,body,mileage,engV,engType,registration,year,model,drive
+Audi,35900,crossover,143,3,Diesel,yes,2010,Q7,full
+Honda,16500,sedan,147,2.4,Petrol,yes,2009,Accord,front
+Toyota,103999,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,full
+Porsche,114900,crossover,25,4.8,Petrol,yes,2013,Cayenne,full
+Porsche,26500,crossover,160,4.8,Petrol,yes,2008,Cayenne,full
+Mitsubishi,12999,crossover,140,2.4,Gas,yes,2007,Outlander XL,full
+Honda,30000,sedan,52,3.5,Gas,yes,2014,Accord,front
+Porsche,26900,crossover,135,4.8,Petrol,yes,2008,Cayenne,full
+Toyota,80000,crossover,23,4.5,Diesel,yes,2014,Land Cruiser 200,full
+BMW,8500,sedan,260,2.2,Gas,yes,2001,520,rear
+Mercedes-Benz,7000,van,197,2.2,Diesel,yes,2002,Vito ����.,front
+Audi,36000,crossover,145,3,Petrol,yes,2010,Q7,full
+Mercedes-Benz,9500,van,280,2.2,Diesel,yes,2005,Vito ����.,rear
+Toyota,103999,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,full
+Toyota,1e+05,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,full
+Mercedes-Benz,16500,other,107,2.2,Diesel,yes,2010,Vito ����.,front

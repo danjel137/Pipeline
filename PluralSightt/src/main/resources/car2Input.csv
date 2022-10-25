@@ -1,0 +1,32 @@
+car,price,body,mileage,engV,engType,registration,year,model,drive
+Mercedes-Benz,35000,other,135,5.5,Petrol,yes,2008,CL 550,rear
+Mercedes-Benz,17800,van,162,1.8,Diesel,yes,2012,B 180,front
+Mercedes-Benz,33000,vagon,91,NA,Other,yes,2013,E-Class,
+Nissan,16600,crossover,83,2,Petrol,yes,2013,X-Trail,full
+Honda,6500,sedan,199,2,Petrol,yes,2003,Accord,front
+Renault,10500,vagon,185,1.5,Diesel,yes,2011,Megane,front
+Mercedes-Benz,21500,sedan,146,1.8,Gas,yes,2012,E-Class,rear
+Mercedes-Benz,22700,sedan,125,2.2,Diesel,yes,2010,E-Class,rear
+Nissan,20447.154,crossover,0,1.2,Petrol,yes,2016,Qashqai,front
+Mercedes-Benz,20400,sedan,190,1.8,Gas,yes,2011,E-Class,rear
+Mercedes-Benz,22500,sedan,164,1.8,Gas,yes,2012,E-Class,rear
+BMW,4700,sedan,200,NA,Petrol,yes,1996,316,rear
+Mercedes-Benz,21500,sedan,159,1.8,Gas,yes,2012,E-Class,rear
+BMW,19999,sedan,290,4.8,Petrol,yes,2006,750,rear
+BMW,129222,sedan,2,5,Petrol,yes,2016,750,full
+Mercedes-Benz,99999,crossover,0,3,Petrol,yes,2016,GLE-Class,full
+Nissan,16600,crossover,83,2,Petrol,yes,2013,X-Trail,full
+BMW,73900,sedan,57,4.4,Petrol,yes,2013,M5,rear
+Land Rover,0,crossover,0,4.4,Diesel,yes,2016,Range Rover,full
+Nissan,26033.553,crossover,0,1.6,Diesel,yes,2016,X-Trail,full
+BMW,104999,crossover,2,3,Diesel,yes,2016,X5,full
+BMW,66500,crossover,1,2,Diesel,yes,2016,X5,full
+BMW,65099,crossover,0,2,Diesel,yes,2016,X5,full
+BMW,23900,crossover,235,3,Diesel,yes,2007,X5,full
+Mercedes-Benz,69999,crossover,0,2.2,Diesel,yes,2016,GLE-Class,full
+BMW,66200,crossover,70,3,Diesel,yes,2014,X5,full
+BMW,63000,crossover,0,2,Diesel,yes,2015,X5,full
+Mercedes-Benz,105999,crossover,0,2.98,Diesel,yes,2016,GLE-Class,full
+Nissan,13980,hatch,31,NA,Other,yes,2013,Leaf,front
+Nissan,17300,hatch,24,NA,Other,yes,2013,Leaf,front
+Volkswagen,10700,sedan,147,2,Petrol,yes,2007,Passat B6,front
