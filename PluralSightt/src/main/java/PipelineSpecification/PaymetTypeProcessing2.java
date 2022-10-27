@@ -1,4 +1,4 @@
-package demo2;
+package PipelineSpecification;
 
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.coders.StringUtf8Coder;
@@ -42,11 +42,7 @@ public class PaymetTypeProcessing2 {
                         System.out.println(input);
                         return null;
                     }
-                }))
-
-
-        ;
-
+                }));
 
         pipeline.run();
     }

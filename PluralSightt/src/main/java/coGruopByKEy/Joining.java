@@ -1,6 +1,6 @@
 package coGruopByKEy;
 
-import demo3.FilterHeaderFn;
+import CustomPipelineOptions.FilterHeaderFn;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
 import org.apache.beam.sdk.options.PipelineOptions;
@@ -30,7 +30,7 @@ public class Joining {
         customersIncome.apply("PrintToConsole",ParDo.of(new DoFn<KV<String, Integer>, Void>() {
             @ProcessElement
             public void apply(ProcessContext c){
-               // System.out.println("Income "+c.element().getKey()+": "+c.element().getValue());
+                System.out.println("Income "+c.element().getKey()+": "+c.element().getValue());
             }
         }));
 
@@ -58,7 +58,7 @@ public class Joining {
                                 Integer spendimgScore=element.getValue().getOnly(scoreTag);
 
                                 out.output(id+","+income+","+spendimgScore);
-                                System.out.println(id+","+income+","+spendimgScore);
+                                //System.out.println(id+","+income+","+spendimgScore);
                     }
 
                 }

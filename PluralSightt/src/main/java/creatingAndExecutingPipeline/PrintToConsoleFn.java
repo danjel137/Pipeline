@@ -1,4 +1,4 @@
-package demo1;
+package creatingAndExecutingPipeline;
 
 import org.apache.beam.sdk.transforms.DoFn;
 

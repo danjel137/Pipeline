@@ -1,7 +1,7 @@
 package compositeTransform;
 
 import GroupByKey.MakePriceKVFn;
-import demo3.FilterHeaderFn;
+import CustomPipelineOptions.FilterHeaderFn;
 import org.apache.beam.sdk.transforms.PTransform;
 import org.apache.beam.sdk.transforms.ParDo;
 import org.apache.beam.sdk.values.KV;

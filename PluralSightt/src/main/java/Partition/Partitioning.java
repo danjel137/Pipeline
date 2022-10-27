@@ -1,7 +1,7 @@
 package Partition;
 
 import GroupByKey.MakePriceKVFn;
-import demo3.FilterHeaderFn;
+import CustomPipelineOptions.FilterHeaderFn;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
 import org.apache.beam.sdk.options.PipelineOptions;
