@@ -42,7 +42,7 @@ public class Combaining {
                 .apply("PrintToConsole",ParDo.of(new DoFn<KV<String, Double>, Void>() {
                     @ProcessElement
                     public void apply(ProcessContext c){
-                        System.out.println("Average is: "+c.element().getKey()+","+c.element().getValue());
+                        //System.out.println("Average is: "+c.element().getKey()+","+c.element().getValue());
                     }
                 }));
         pipeline.run();

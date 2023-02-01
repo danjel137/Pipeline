@@ -14,6 +14,7 @@
         <module>valueFromDbToCv</module>
         <module>PluralSightt</module>
         <module>WindowingAndJoinOperation</module>
+        <module>DE1</module>
     </modules>
 
 

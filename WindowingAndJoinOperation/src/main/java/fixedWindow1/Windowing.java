@@ -1,4 +1,4 @@
-package window;
+package fixedWindow1;
 
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
@@ -14,6 +14,7 @@ import org.joda.time.Duration;
 
 public class Windowing {
     public static void main(String[] args) {
+
         PipelineOptions options= PipelineOptionsFactory.create();
         Pipeline pipeline=Pipeline.create(options);
         PCollection<MovieTag> moviesTag=pipeline

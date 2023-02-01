@@ -8,8 +8,7 @@ import org.apache.beam.sdk.values.KV;
 import org.apache.beam.sdk.values.PCollection;
 
 
-public class MakeKVTransform extends PTransform <
-        PCollection<String>,PCollection<KV<String,Double>>>{
+public class MakeKVTransform extends PTransform <PCollection<String>,PCollection<KV<String,Double>>>{
 
     @Override
     public PCollection<KV<String, Double>> expand(PCollection<String> input) {

@@ -24,6 +24,14 @@ public class CarModel implements Serializable{
         return price;
     }
 
+    @Override
+    public String toString() {
+        return "CarModel{" +
+                "model='" + model + '\'' +
+                ", price=" + price +
+                '}';
+    }
+
     public void setPrice(Double price) {
         this.price = price;
     }

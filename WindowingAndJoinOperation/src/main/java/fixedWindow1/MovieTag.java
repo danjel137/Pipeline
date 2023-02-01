@@ -1,4 +1,4 @@
-package window;
+package fixedWindow1;
 
 import org.joda.time.Instant;
 

@@ -1,4 +1,4 @@
-package window;
+package fixedWindow1;
 
 import org.apache.beam.sdk.transforms.DoFn;
 import org.apache.commons.csv.CSVFormat;
