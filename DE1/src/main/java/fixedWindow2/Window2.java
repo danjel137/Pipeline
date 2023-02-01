@@ -3,6 +3,7 @@ import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
 import org.apache.beam.sdk.transforms.*;
 import org.apache.beam.sdk.transforms.windowing.FixedWindows;
+import org.apache.beam.sdk.transforms.windowing.SlidingWindows;
 import org.apache.beam.sdk.transforms.windowing.Window;
 import org.apache.beam.sdk.values.PCollection;
 import org.apache.beam.sdk.options.PipelineOptions;
@@ -43,7 +44,9 @@ public class Window2{
 //                    }
 //                }));
 
-        energyConsumption.apply("Window", Window.into(FixedWindows.of(Duration.standardDays(1))))
+       // energyConsumption.apply("Window", Window.into(FixedWindows.of(Duration.standardDays(1))))
+        energyConsumption.apply("Window", Window.into(SlidingWindows.of(Duration.standardDays(5)).every(Duration.standardDays(1))))
+
 
                 .apply("ToStrings", MapElements
                         .into(TypeDescriptors.strings())
